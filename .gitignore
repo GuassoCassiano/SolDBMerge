@@ -1,0 +1,7 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+first_paper_done.pdf
+second_paper.pdf
+.vscode

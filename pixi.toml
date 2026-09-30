@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Cassiano Perufo Guasso Filho <226236650+GuassoCassiano@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "db"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
